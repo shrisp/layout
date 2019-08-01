@@ -1,0 +1,54 @@
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+.header {
+	width: 50%;
+  padding: 10px;
+  text-align: center;
+  background: #444544;
+  color: white;
+}
+.header h1 {
+  font-size: 40px;
+}
+
+
+input[type=text], select {
+  width: 60%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  display: inline-block ;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+
+input[type=submit] {
+  width: 30%;
+  background-color: #0b9e11;
+  color:black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #868a87;
+  padding: 20px;
+}
+.footer {
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
+
+</style>
